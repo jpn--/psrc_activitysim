@@ -1,5 +1,6 @@
 #inherit_settings: True
 #sharrow: require
+recode_pipeline_columns: True
 
 # activitysim run -c configs -d data -o output
 
